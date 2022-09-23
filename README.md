@@ -1,15 +1,14 @@
 # NgenInterviewExercise
 
-Backend:
+### `Backend:`
 
-Install NPM's
-
-npm i & npm i dotenv
+Install NPM's: npm i & npm i dotenv
 
 Create .env file and add DATABASE_URL="Mongodbconnection string"
 
 Run Backend: nodemon index.js
-Front End: npm i and Start to install dependencies and run the front end
+
+### `Front End`: npm i and npm start to install dependencies and run the front end
 
 # Getting Started with Create React App
 
