@@ -8,7 +8,7 @@ Create .env file and add DATABASE_URL="Mongodbconnection string"
 
 Run Backend: nodemon index.js
 
-Cors : Please put your front end point to avoid cors errors in index.js file
+Cors : Please put your front end point to avoid cors errors in index.js file(Line 13)
 
 ### `Front End`: npm i and npm start to install dependencies and run the front end
 
