@@ -8,6 +8,8 @@ Create .env file and add DATABASE_URL="Mongodbconnection string"
 
 Run Backend: nodemon index.js
 
+Cors : Please put your front end point to avoid cors errors in index.js file
+
 ### `Front End`: npm i and npm start to install dependencies and run the front end
 
 # Getting Started with Create React App
